@@ -43626,6 +43626,17 @@
         "twitter": "https://twitter.com/gruesomegoblins",
         "website": "https://gruesomegoblins.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "356xypTDqfngosF1tf5gtK2mSBAsK8stMqNefHcqSBqX",
+      "symbol": "FLOO",
+      "name": "Floofy Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/dbotero1979/crypto/main/floof.jpg",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
